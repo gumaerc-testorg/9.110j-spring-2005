@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: de722564-0839-d333-b0f7-aa62b3a03f81
 ---
@@ -175,7 +178,7 @@ Melov, S. "Modeling mitochondrial function in aging neurons." _Trends in Neurosc
   
 Mattson, M. P., S. Maudsley, and B. Martin. "BDNF and 5-HT: a dynamic duo in age-related neuronal plasticity and neurodegenerative disorders." _Trends in Neurosci_ 27 (2004): 589-594.  
   
-Toescu, E. C., A. Verkhrasky, and P. W. Landfield. "Ca++ regulation and gene expression in normal brain aging." _Trends in Neurosci_ 27 (2004): 614-620.
+Toescu, E. C., A. Verkhrasky, and P. W. Landfield. "Ca{{< sup "++" >}} regulation and gene expression in normal brain aging." _Trends in Neurosci_ 27 (2004): 614-620.
 {{< tdclose >}}
 
 {{< trclose >}}
